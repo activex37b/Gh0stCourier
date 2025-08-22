@@ -38,6 +38,13 @@ It provides a stealthy operator-controlled server to deliver or exfiltrate paylo
 
     ================================================
 
+ # 📸 Screenshots
+ Gh0stCourier server interface
+<img width="851" height="696" alt="ghost courier" src="https://github.com/user-attachments/assets/dd9c16af-e11c-4949-8069-b438d44d7031" />
+
+File transfer Prompt with token
+<img width="1366" height="768" alt="file transfer" src="https://github.com/user-attachments/assets/e9bae7d5-e3f6-4c25-9108-da0b1fc0e039" />
+
 # 📡 Endpoints
 
     GET /request_token?token=<id>
